@@ -21,7 +21,7 @@ and sharpen my mind
 
 ### Connect with Me :
 
-<a  href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank" style="height=40px;width=100px;background-color:blue" >My LinkenIn Account</a>
+<a  href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank"  ><img src="?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
