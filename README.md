@@ -20,7 +20,8 @@ and sharpen my mind
 
 ### Connect with Me :
 
-<a  href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank"  >My LinkenIn Account</a>
+<a  href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank"  ><img alt="Static Badge" src="https://img.shields.io/badge/Nada%20Soliman-white?logo=linkedin&logoColor=white&labelColor=blue&color=blue">
+</a>
 <p>Phone Number : 01125512191</p>
 
 ### 🛠 &nbsp;Tech Stack
