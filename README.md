@@ -3,7 +3,6 @@
 
 <h3 align="center">
   Welcome to Nada Soliman's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -21,7 +20,7 @@ and sharpen my mind
 
 ### Connect with Me :
 
-<a  href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank"  ><img src="https://images.ctfassets.net/lzny33ho1g45/iORF0CVaM9DdDBIS4dz9W/93a56ec07b57ec19b93cb593febbcc8f/linkedin.png?w=50&fm=jpg&q=30&fit=thumb&h=100"/></a>
+<a  href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank"  ><img src="https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo-thumbnail.png"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
