@@ -21,7 +21,7 @@ and sharpen my mind
 
 ### Connect with Me :
 
-<a  href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank"  ><img src="?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a  href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank"  ><img src="https://images.ctfassets.net/lzny33ho1g45/iORF0CVaM9DdDBIS4dz9W/93a56ec07b57ec19b93cb593febbcc8f/linkedin.png?w=50&fm=jpg&q=30&fit=thumb&h=100"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
