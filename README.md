@@ -12,14 +12,16 @@
 </p> 
 
 - 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 👨‍💻 As a CS student, I'm permanently learning and exploring new technologies to improve my skills 
+and sharpen my mind
+.
+- 💬 Ask me about my experience with Sql Server ,C# ,LINQ ,Entity Framework or any thing related to .NET Track.
 
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank">My LinkenIn Account</a>
+<a  href="https://www.linkedin.com/in/nada-soliman-6b45a9218/" target="_blank" style="height=40px;width=100px;background-color:blue" >My LinkenIn Account</a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
