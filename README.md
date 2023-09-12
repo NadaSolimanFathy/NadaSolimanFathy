@@ -33,6 +33,12 @@ and sharpen my mind
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Static Badge](https://img.shields.io/badge/visual_studio-white?logo=visualstudio&logoColor=purple&color=black)
+![Static Badge](https://img.shields.io/badge/C%23-white?logo=csharp&logoColor=purple&color=black)
+![Static Badge](https://img.shields.io/badge/LINQ-white?color=Yellow)
+![Static Badge](https://img.shields.io/badge/Entity%20Framework-white?color=red)
+![Static Badge](https://img.shields.io/badge/Sql_Server-white?logo=microsoftsqlserver&logoColor=red&labelColor=black&color=black)
+
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp; -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
