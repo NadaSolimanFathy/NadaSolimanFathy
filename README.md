@@ -44,6 +44,8 @@ and sharpen my mind
 ![Static Badge](https://img.shields.io/badge/LINQ-white?color=black)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Entity%20Framework-white?color=black)
 ![Static Badge](https://img.shields.io/badge/.NET-purple?logo=dotnet&logoColor=purple&color=black)
+![Static Badge](https://img.shields.io/badge/Dapper%20ORM)
+
 
 <!-- ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
  -->
