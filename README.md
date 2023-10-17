@@ -11,9 +11,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F745B8&width=435&lines=.NET+Full-Stack+Web+Developer;Always+Learn+New+Things;Enjoy+with+Coding+" alt="Typing SVG" /></a></p> 
 
 <p> &#128187 I'm a Software Engineer </p>
-<p> &#128187 As a CS student, I'm permanently learning and exploring new technologies to improve my skills </p>
-and sharpen my mind
-.
+<p> &#128187 As a CS student, I'm permanently learning and exploring new technologies to improve my skills and sharpen my mind.
+ </p>
 <p> &#128187 Ask me about my experience with Sql Server ,C# ,LINQ ,Entity Framework or any thing related to .NET Track.</p>
 
 
