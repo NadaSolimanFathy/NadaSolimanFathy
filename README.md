@@ -27,6 +27,7 @@
 ![Static Badge](https://img.shields.io/badge/Sql_Server-white?logo=microsoftsqlserver&logoColor=red&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/C%23-white?logo=csharp&logoColor=purple&color=black)
 ![Static Badge](https://img.shields.io/badge/LINQ-white?color=black)&nbsp;
+![Static Badge](https://img.shields.io/badge/MVC-white?color=black)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Entity%20Framework-white?color=black)
 ![Static Badge](https://img.shields.io/badge/.NET-purple?logo=dotnet&logoColor=purple&color=black)
 ![Static Badge](https://img.shields.io/badge/Dapper_ORM-8A2BE2%20?color=black)
