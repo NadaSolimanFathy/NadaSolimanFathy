@@ -24,6 +24,13 @@
 <p>Phone Number : 01125512191</p>
 
 ### 🛠 &nbsp;Tech Stack
+![Static Badge](https://img.shields.io/badge/Sql_Server-white?logo=microsoftsqlserver&logoColor=red&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/C%23-white?logo=csharp&logoColor=purple&color=black)
+![Static Badge](https://img.shields.io/badge/LINQ-white?color=black)&nbsp;
+![Static Badge](https://img.shields.io/badge/Entity%20Framework-white?color=black)
+![Static Badge](https://img.shields.io/badge/.NET-purple?logo=dotnet&logoColor=purple&color=black)
+![Static Badge](https://img.shields.io/badge/Dapper_ORM-8A2BE2%20?color=black)
+<br>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
@@ -38,12 +45,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Static Badge](https://img.shields.io/badge/visual_studio-white?logo=visualstudio&logoColor=purple&color=black)
 <br>
-![Static Badge](https://img.shields.io/badge/Sql_Server-white?logo=microsoftsqlserver&logoColor=red&labelColor=black&color=black)
-![Static Badge](https://img.shields.io/badge/C%23-white?logo=csharp&logoColor=purple&color=black)
-![Static Badge](https://img.shields.io/badge/LINQ-white?color=black)&nbsp;
-![Static Badge](https://img.shields.io/badge/Entity%20Framework-white?color=black)
-![Static Badge](https://img.shields.io/badge/.NET-purple?logo=dotnet&logoColor=purple&color=black)
-![Static Badge](https://img.shields.io/badge/Dapper_ORM-8A2BE2%20?color=black)
 
 
 <!-- ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
